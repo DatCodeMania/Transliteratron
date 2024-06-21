@@ -27,4 +27,5 @@ python3 main.py
 ## Example
 
 ![Example](example.png)
+
 Transliteratron does not include colored borders, that is from [LinuxSSTool](https://github.com/DatCodeMania/LinuxSSTool)

@@ -9,6 +9,7 @@ This is a Python GTK3 application that transliterates text using a remote LLM AP
 
 ## Prerequisites
 
+- Python3
 - Linux system.
 - GTK3 toolkit installed on your system.
 - Access to an LLM API - for local LLMs feel free to make a PR to add support.
